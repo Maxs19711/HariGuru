@@ -61,7 +61,7 @@ const popUpAndYt: React.FC = () => {
             fontSize={20}
             textTransform="capitalize"
           >
-            Program Khalifah Chilik
+            Program Khalifah Cilik
           </Text>
           <Center>
             <Button
