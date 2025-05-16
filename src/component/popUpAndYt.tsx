@@ -61,7 +61,7 @@ const popUpAndYt: React.FC = () => {
             fontSize={20}
             textTransform="capitalize"
           >
-            Program Khalifah Cilik
+            Selamat Hari Guru!
           </Text>
           <Center>
             <Button
@@ -85,7 +85,7 @@ const popUpAndYt: React.FC = () => {
             ref={playerRef}
             width="80%"
             height="auto"
-            src="https://www.youtube.com/embed/EcEuFt9WTo4?enablejsapi=1&version=3&playerapiid=ytplayer"
+            src="https://www.youtube.com/embed/ototTQXtKpY?enablejsapi=1&version=3&playerapiid=ytplayer"
             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
